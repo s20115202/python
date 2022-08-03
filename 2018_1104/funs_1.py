@@ -7,6 +7,8 @@ gc.collect()
 from machine import Pin, Timer
 import time
 import network
+# import network
+
 #global counter
 counter=0
 def count_0(flashes):
